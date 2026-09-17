@@ -1,2 +1,2 @@
-THis file iś to learn conflict process.
+This file iś to learn conflict process.
 I change this line. THis file iś to learn conflict process.
